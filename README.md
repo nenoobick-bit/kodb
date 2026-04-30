@@ -28,5 +28,5 @@ Random Quote Generator - это GUI-приложение на Python, котор
 1. Клонируйте репозиторий:
 
 ```bash
-git clone https://github.com/username/random-quote-generator.git
-cd random-quote-generator
+git clone https://github.com/nenoobick-bit/kodb.git
+cd kodb
